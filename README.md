@@ -1,2 +1,2 @@
 # learncoding
-Simple repository to teach kids basic programming and web development.
+Simple repository to teach programming and web development.
