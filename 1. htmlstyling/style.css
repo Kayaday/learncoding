@@ -1,0 +1,42 @@
+.style2 img {
+    display: none
+}
+
+.style2 {
+    /* color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;
+    height: 400px; */
+}
+
+/* body {
+    background: url('https://wallpapertag.com/wallpaper/full/9/d/8/137961-pikachu-background-1920x1080-for-iphone-7.jpg');
+} */
+
+
+/* Don't worry about what is below this line! */
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+/* li a:hover {
+    background-color: #111;
+} */
